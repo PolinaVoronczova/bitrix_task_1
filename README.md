@@ -1,1 +1,1 @@
-# bitrix_task_1
+# Шаблон для news.list
